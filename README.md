@@ -1,2 +1,4 @@
-# otus-linux-pacemaker-vbox
-Демонстрационный стенд pacemaker c virtualbox fence
+### Демонстрационный стенд pacemaker c virtualbox fence
+
+Virtualbox + Vagrant
+Pacemaker + Corosync
