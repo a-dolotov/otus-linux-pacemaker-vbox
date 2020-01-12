@@ -3,6 +3,7 @@
 Используемые инструменты:
 - Virtualbox + Vagrant
 - Pacemaker + Corosync
+- ClusterLabs fence agents
 
 Порядок запуска:
 ```
