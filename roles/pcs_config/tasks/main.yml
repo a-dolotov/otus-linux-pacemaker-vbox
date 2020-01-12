@@ -6,7 +6,7 @@
   command: "{{ item }}"
   with_items:
     - " pcs cluster auth pcs1.{{ domain }} pcs2.{{ domain }} pcs3.{{ domain }} -u hacluster -p {{ pcs_password }}"
-  #no_log: true
+  no_log: true
   
 - name: Check for replay (/opt/pcs_config_done exists)
   stat:
