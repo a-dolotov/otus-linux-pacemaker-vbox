@@ -9,4 +9,5 @@
 ```
 git clone <this repo>
 vagrant up
+ansible-playbook main.yml
 ```
